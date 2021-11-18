@@ -1,0 +1,19 @@
+{
+    "name": "landofcoder/module-default-shipping-payment",
+    "description": "N/A",
+    "require": {
+    },
+    "type": "magento2-module",
+    "version": "1.0.1",
+    "license": [
+        "proprietary"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Lof\\DefaultShippingPayment\\": ""
+        }
+    }
+}
