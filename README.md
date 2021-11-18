@@ -16,6 +16,8 @@ php bin/magento setup:upgrade
 ## TODO
 - Compatible for [Landofcoder Request For Quote](https://landofcoder.com/magento-2-quote-extension.html/): Allow set default shipping method for approved quote
 
-* Forked from repo: [Default Shipping & Payment Method](https://github.com/hungersoft/magento2-default-shipping-payment.git)
+## NOTE
+
+Forked from repo: [Default Shipping & Payment Method](https://github.com/hungersoft/magento2-default-shipping-payment.git)
 
 We custom module code to make it compatible with our extensions.
